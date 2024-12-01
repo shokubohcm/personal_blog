@@ -10,9 +10,9 @@ I use this repository as part of my effort to output and refine my thoughts befo
 
 You can find my published articles on the following platforms:
 
-- **Medium**: [shokubohcm.medium.com](https://shokubohcm.medium.com/)
-- **Qiita**: [qiita.com/shokubohcm](https://qiita.com/shokubohcm)
-- **note**: [note.com/shokubohcm](https://note.com/shokubohcm)
+- [Medium](https://shokubohcm.medium.com/)
+- [Qiita](https://qiita.com/shokubohcm)
+- [note](https://note.com/shokubohcm)
 
 ## Disclaimer
 
@@ -20,5 +20,5 @@ I cannot guarantee the accuracy of the content in these drafts. Feedback is alwa
 
 ## Connect with Me
 
-- **LinkedIn**: [note.com/shokubohcm](https://note.com/shokubohcm)
-- **LinkTree**: [linktr.ee/shokubohcm](https://linktr.ee/shokubohcm)
+- [Linkedin](https://www.linkedin.com/in/shokubohcm/)
+- [LinkTree](https://linktr.ee/shokubohcm)
