@@ -22,3 +22,7 @@ I cannot guarantee the accuracy of the content in these drafts. Feedback is alwa
 
 - [Linkedin](https://www.linkedin.com/in/shokubohcm/)
 - [LinkTree](https://linktr.ee/shokubohcm)
+
+## Articles
+
+- [Djangoで作成したプロジェクトをGitHubに公開する前の諸々](https://qiita.com/shokubohcm/items/a1b63df1521742621a67)
