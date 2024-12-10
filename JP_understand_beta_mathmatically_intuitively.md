@@ -13,7 +13,7 @@ $$ R_i = R_f + \beta_i(R_m - R_f) $$
 - $\beta_i$ : 資産iの市場リスク係数
 - $(R_m - R_f)$ : リスクプレミアム
 
-### CAPMと線形モデル$$ \beta = \rho\times\sigma_i/\sigma_m $$
+### CAPMと線形モデル
 $$ ⇔ R_i - R_f = \beta_i(R_m - R_f) + \epsilon_i $$
 $$ ⇔ y = \beta x + \epsilon $$
 とおく。
