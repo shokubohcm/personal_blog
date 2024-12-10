@@ -26,4 +26,5 @@ I cannot guarantee the accuracy of the content in these drafts. Feedback is alwa
 ## Articles
 
 - [Djangoで作成したプロジェクトをGitHubに公開する前の諸々](https://qiita.com/shokubohcm/items/a1b63df1521742621a67)
+- [What to do before publishing a project created with Django on GitHub](https://shokubohcm.medium.com/what-to-do-before-publishing-a-project-created-with-django-on-github-c6fdbe7b1130)
 - [基礎統計学Ⅰ 統計学入門 第3章 3.1, 第12章 12.10（1984年自民党得票率と持ち家比率データ）](https://qiita.com/shokubohcm/items/ccb288a278c6b775917a)
