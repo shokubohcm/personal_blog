@@ -61,7 +61,7 @@ $$ \partial S/\partial \beta = -2 (R_m-R_f)((R_i-R_f)-\beta(R_m-R_f))=0 $$
 $$ ⇔\beta = \sum_{i=1}^n(R_i-R_f)(R_m-R_f)/\sum_{i=1}^n(R_m-R_f)^2 \tag{2}$$
 ここで、
 $$  \sum_{i=1}^n(R_i-R_f)(R_m-R_f) $$は$R_m$と$R_i$の共分散を表し、
-$$ \sum_{i=1}^n(R_m-R_f)^2 $$ はマーケットリターンの分散を表すことがわかる。
+$$ \sum_{i=1}^n(R_m-R_f)^2 $$ は$R_m$分散を表すことがわかる。
 
 </br>
 
