@@ -44,8 +44,10 @@ data = read_csv("all_2024_num.csv")
 
 # Filter out financial institutions and keep only companies with market capitalization data
 source("label_20240929.R")
+
 data = data |>
   filter(!grepl("銀行|保険|証券|その他|金融|-", g31))
+
 data = data |>
   filter(!is.na(mv))
 ```
@@ -86,6 +88,7 @@ data = data |>
   )
 
 # Replace missing values in b8, b11, and b45 with 0 for summation purposes
+
 data = data |>
   mutate(b8 = if_else(is.na(b8), 0, b8),
          b11 = if_else(is.na(b11), 0, b11),
@@ -93,6 +96,7 @@ data = data |>
   )
 
 # For d1, a12, and a5, fill missing values with the company-specific mean
+
 data = data |>
   group_by(fcode) |>
   mutate(
@@ -114,7 +118,8 @@ data = data |>
 
 data = data |>
   group_by(fcode) |>
-  mutate(Sales_Vol = round(sd(Sales, na.rm = TRUE), digits = 3)) |>
+  mutate(Sales_Vol=sd(Sales, na.rm = TRUE),
+         Sales_Vol=round(Sales_Vol, digits = 3),) |>
   ungroup()
 ```
 
@@ -128,7 +133,9 @@ data = data |>
 
 for (i in 2000:2024) {
   data = data |>
-    mutate(year = if_else(grepl(as.character(i), fy), i, year))
+    mutate(year=case_when(grepl(i, fy) ~ i,
+                          TRUE ~ year)
+    )
 }
 
 data = data |>
