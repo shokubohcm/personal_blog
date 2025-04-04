@@ -198,6 +198,8 @@ modelsummary(est_inter,
 
 ## Results and Discussion
 
+![alt text](EN_bankloans_factors_results.png)
+
 The dependent variable in these models is the bank debt ratio (Debt). The main explanatory variables include Sales_Vol, Tangibility, and, in Model 7, their interaction term (RevVol_TFA), while the control variables are Sales, Size, MB, and Cash. Standard errors are shown in parentheses, and the symbols *, **, and *** denote significance at the 10%, 5%, and 1% levels, respectively.
 
 ### Hypothesis 1
