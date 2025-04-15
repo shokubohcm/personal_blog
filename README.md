@@ -30,5 +30,5 @@ I cannot guarantee the accuracy of the content in these drafts. Feedback is alwa
 - [基礎統計学Ⅰ 統計学入門 第3章 3.1, 第12章 12.10（1984年自民党得票率と持ち家比率データ）](https://qiita.com/shokubohcm/items/ccb288a278c6b775917a)
 - [Try to Understand β in CAPM Mathematically and Intuitively Approach](https://shokubohcm.medium.com/try-to-understand-%CE%B2-in-capm-mathematically-and-intuitively-approach-eddfa9cac4a5)
 - [CAPMにおけるβを数学的に・直感的に理解しようとする](https://note.com/shokubohcm/n/nd3e66ec7c212?sub_rt=share_pb)
-- [日本の上場企業における、銀行借入の決定要因について](https://note.com/shokubohcm/n/n5f5b0c045eea)
 - [Determinants of Bank Borrowing in Japanese Listed Companies](https://shokubohcm.medium.com/determinants-of-bank-borrowing-in-japanese-listed-companies-cc10c3d3995d)
+- [日本の上場企業における、銀行借入の決定要因について](https://note.com/shokubohcm/n/n5f5b0c045eea)
