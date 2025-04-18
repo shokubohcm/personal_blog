@@ -32,3 +32,5 @@ I cannot guarantee the accuracy of the content in these drafts. Feedback is alwa
 - [CAPMにおけるβを数学的に・直感的に理解しようとする](https://note.com/shokubohcm/n/nd3e66ec7c212?sub_rt=share_pb)
 - [Determinants of Bank Borrowing in Japanese Listed Companies](https://shokubohcm.medium.com/determinants-of-bank-borrowing-in-japanese-listed-companies-cc10c3d3995d)
 - [日本の上場企業における、銀行借入の決定要因について](https://note.com/shokubohcm/n/n5f5b0c045eea)
+- [How Have NBA Players’ Heights Changed Over Time?](https://medium.com/@shokubohcm/how-have-nba-players-heights-changed-over-time-33eaa8df6f60)
+- [NBA選手の身長はどのように変化してきたのか?](https://note.com/shokubohcm/n/n963207443c5c)
