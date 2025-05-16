@@ -4,7 +4,7 @@ This repository is for managing the drafts of my personal blog articles.
 
 ## About
 
-I use this repository as part of my effort to output and refine my thoughts before publishing them. The drafts here focus on topics related to **Finance**, **Statistics**, and **Engineering**. All content is provided in markdown files and is in draft form.
+I use this repository as part of my effort to output and refine my thoughts before publishing them. The drafts here focus on topics related to **Finance**, **Statistics**, **Engineering**, and **Data Science**. All content is provided in markdown files and is in draft form.
 
 ## Published Blogs
 
