@@ -19,6 +19,8 @@ I use this repository as part of my effort to output and refine my thoughts befo
 - [NBA選手の身長はどのように変化してきたのか?](https://note.com/shokubohcm/n/n963207443c5c)
 - [Do Star Players Move the “Stock Price” of NBA Teams? ~ (1/3) Macro Perspective — Analyzing Team Valuations Across the League ~](https://shokubohcm.medium.com/do-star-players-move-the-stock-price-of-nba-teams-13166b3da4e7)
 - [スター選手はチームの“株価”を動かすのか? 〜NBAチームの企業価値分析: (1/3) マクロ編〜](https://note.com/shokubohcm/n/n7bef1d17c2ca)
+- [Do Star Players Move the “Stock Price” of NBA Teams? ~ (2/3) Case Studies — 5 Trades that Shook the NBA ~](https://shokubohcm.medium.com/do-star-players-move-the-stock-price-of-nba-teams-163c46237a49)
+- [スター選手はチームの“株価”を動かすのか?～NBAを動かした5つの移籍: (2/3) ケース編～](https://note.com/shokubohcm/n/n2267570c06f9)
 
 ## Connect with Me
 
