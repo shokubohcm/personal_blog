@@ -110,4 +110,4 @@ If we remove the effect of the league's overall growth (the rising tide) and oth
 I have no real background in causal inference, so this won't be a strictly rigorous study, but in the final part, "(3/3) The Analysis (coming soon...)", I want to use the Difference-in-Differences (DiD) method to try and reveal the "true effect" of a star transfer on valuation with objective numbers, as much as possible.
 
 Thanks for reading!
-I'd love to hear your thoughts on this article or any critiques of the analysis, "Hey, have you thought about it this way?" Please feel free to reach out on LinkedIn or in the comments! Always open to feedback!!
+I'd love to hear your thoughts on this article or any critiques of the analysis, "Hey, have you thought about it this way?" Please feel free to reach out on [LinkedIn](https://www.linkedin.com/in/shokubohcm/) or in the comments! Always open to feedback!!
