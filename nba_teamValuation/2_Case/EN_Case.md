@@ -78,7 +78,7 @@ In addition to Kevin Durant and Kyrie Irving, James Harden made a shocking move 
 ](../image/2_Case/case5_nets_2021_harden_join_single.png)
 (Figure 9) Brooklyn Nets' Valuation Trend After James Harden Joined
 
-Looking at the graph, you can see the valuation temporarily spike at the time the Big 3 was formed. It's clear just how much the market was anticipating from this "superteam."
+Looking at the graph, you can see the valuation temporarily spikes at the time the Big 3 was formed. It's clear just how much the market was anticipating from this "superteam."
 
 ![Valuation Comparison: Nets vs. Rockets Around the 2021 Transfer](../image/2_Case/case5_nets_vs_rockets_2021_transfer_dual.png)
 (Figure 10) Valuation Comparison: Nets vs. Rockets Around the 2021 Transfer
