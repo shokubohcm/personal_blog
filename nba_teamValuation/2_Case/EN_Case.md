@@ -4,7 +4,7 @@
 
 Star players bring more than just wins to a team. Their every move can shift the league's balance of power and move huge amounts of money.
 
-In the previous post, [(1/3) The Big Picture](https://note.com/shokubohcm/n/n7bef1d17c2ca), we looked at the data and saw how a team's valuation tends to jump right when a star player transfers.
+In the previous post, [(1/3) The Big Picture](https://medium.com/@shokubohcm/do-star-players-move-the-stock-price-of-nba-teams-13166b3da4e7), we looked at the data and saw how a team's valuation tends to jump right when a star player transfers.
 
 So, what actually happened to a team's value behind the scenes of those historic trades?
 
@@ -101,7 +101,7 @@ On the other hand, as the Nets' case shows, acquiring a star doesn't always lead
 
 So far in this series, we've looked at the impact of star player transfers on team valuation from both a big-picture perspective and through specific cases.
 
-- [Previous Post (The Big Picture)](https://note.com/shokubohcm/n/n7bef1d17c2ca): Got a rough grasp of the overall trends with numbers.
+- [Previous Post (The Big Picture)](https://medium.com/@shokubohcm/do-star-players-move-the-stock-price-of-nba-teams-13166b3da4e7): Got a rough grasp of the overall trends with numbers.
 - This Post (The Case Studies) (coming soon...): Looked at the "stories" of iconic transfers alongside the data.
 But personally, I'm still stuck on one question: "Is the observed increase in value really just because of the star player?"
 
