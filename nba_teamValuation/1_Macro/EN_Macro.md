@@ -84,6 +84,7 @@ While the Warriors had the biggest short-term jump, the Cavs delivered long-term
 Interestingly, the Nets (+17%) and Clippers (+18%)—which showed little movement in year one—ended up with solid gains two years later. These cases may demonstrate a “slow burn” effect.
 
 ## 5. Discussion: Was the Growth Truly Thanks to the Star?
+
 So far, the data seems to support the idea that a superstar signing boosts a team’s valuation—at least in the short or medium term. LeBron’s return to small-market Cleveland, in particular, is said to have lifted not only the team but also the local economy.
 
 However, can we really attribute the valuation jump solely to the player?
