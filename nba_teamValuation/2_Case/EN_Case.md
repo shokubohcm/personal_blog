@@ -1,4 +1,4 @@
-# Do Star Players Move the “Stock Price” of NBA Teams? ~(2/3) Case Studies – 5 Trades that Shook the NBAe~
+# Do Star Players Move the “Stock Price” of NBA Teams? ~(2/3) Case Studies – 5 Trades that Shook the NBA~
 
 ## 0. Introduction: "So, What Actually Happened to the Team's Value?"
 
