@@ -6,23 +6,6 @@ This repository is for managing the drafts of my personal blog articles.
 
 I use this repository as part of my effort to output and refine my thoughts before publishing them. The drafts here focus on topics related to **Finance**, **Statistics**, **Engineering**, and **Data Science**. All content is provided in markdown files and is in draft form.
 
-## Published Blogs
-
-You can find my published articles on the following platforms:
-
-- [Medium](https://shokubohcm.medium.com/)
-- [Qiita](https://qiita.com/shokubohcm)
-- [note](https://note.com/shokubohcm)
-
-## Disclaimer
-
-I cannot guarantee the accuracy of the content in these drafts. Feedback is always welcome!
-
-## Connect with Me
-
-- [Linkedin](https://www.linkedin.com/in/shokubohcm/)
-- [LinkTree](https://linktr.ee/shokubohcm)
-
 ## Articles
 
 - [Djangoで作成したプロジェクトをGitHubに公開する前の諸々](https://qiita.com/shokubohcm/items/a1b63df1521742621a67)
@@ -36,3 +19,12 @@ I cannot guarantee the accuracy of the content in these drafts. Feedback is alwa
 - [NBA選手の身長はどのように変化してきたのか?](https://note.com/shokubohcm/n/n963207443c5c)
 - [Do Star Players Move the “Stock Price” of NBA Teams? ~ (1/3) Macro Perspective — Analyzing Team Valuations Across the League ~](https://shokubohcm.medium.com/do-star-players-move-the-stock-price-of-nba-teams-13166b3da4e7)
 - [スター選手はチームの“株価”を動かすのか? 〜NBAチームの企業価値分析: (1/3) マクロ編〜](https://note.com/shokubohcm/n/n7bef1d17c2ca)
+
+## Connect with Me
+
+- [Linkedin](https://www.linkedin.com/in/shokubohcm/)
+- [LinkTree](https://linktr.ee/shokubohcm)
+
+## Disclaimer
+
+I cannot guarantee the accuracy of the content in these drafts. Feedback is always welcome!
