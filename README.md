@@ -34,3 +34,5 @@ I cannot guarantee the accuracy of the content in these drafts. Feedback is alwa
 - [日本の上場企業における、銀行借入の決定要因について](https://note.com/shokubohcm/n/n5f5b0c045eea)
 - [How Have NBA Players’ Heights Changed Over Time?](https://medium.com/@shokubohcm/how-have-nba-players-heights-changed-over-time-33eaa8df6f60)
 - [NBA選手の身長はどのように変化してきたのか?](https://note.com/shokubohcm/n/n963207443c5c)
+- [Do Star Players Move the “Stock Price” of NBA Teams? ~(1/3) Macro Perspective — Analyzing Team Valuations Across the League~](https://shokubohcm.medium.com/do-star-players-move-the-stock-price-of-nba-teams-13166b3da4e7)
+- [スター選手はチームの“株価”を動かすのか? 〜NBAチームの企業価値分析: (1/3) マクロ編〜](https://note.com/shokubohcm/n/n7bef1d17c2ca)
