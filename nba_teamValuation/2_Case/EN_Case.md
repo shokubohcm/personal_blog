@@ -71,6 +71,7 @@ As we saw in the "Big Picture" post, the immediate increase in valuation was lim
 In contrast, the Raptors' valuation growth slowed after Kawhi left. The historic championship brought priceless value, but the fact that it was a "one-year rental" is also reflected in the valuation trend.
 
 ## 5. Case 5: 2021, James Harden → Brooklyn Nets
+
 In addition to Kevin Durant and Kyrie Irving, James Harden made a shocking move to join them. The moment "the greatest offensive trio ever" was born in Brooklyn, expectations hit an all-time high.
 
 ![Brooklyn Nets' Valuation Trend After James Harden Joined
