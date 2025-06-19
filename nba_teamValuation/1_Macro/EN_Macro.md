@@ -30,7 +30,7 @@ All the data and code are available on [GitHub](https://github.com/shokubohcm/pe
 
 Before zooming in on individual teams, let’s take a look at the league-wide trend.
 
-![Valuation trends of all teams and the league average](../image/1_nba_log_valuation_with_league_avg.png)
+![Valuation trends of all teams and the league average](../image/1_Macro/1_nba_log_valuation_with_league_avg.png)
 (Figure 1) Valuation trends of all teams and the league average
 
 As the chart shows, the entire league is rising steadily. This growth is largely driven by massive TV rights deals and global expansion—some might call it the “NBA bubble.”
@@ -41,7 +41,7 @@ In other words, most teams are seeing their values rise simply by being part of 
 
 Now let’s get to the core question: Did the valuation of teams with new superstar signings increase beyond the league average?
 
-![Valuation trends of teams with major star signings](../image/1_nba_log_valuation_star_teams_highlighted.png)
+![Valuation trends of teams with major star signings](../image/1_Macro/1_nba_log_valuation_star_teams_highlighted.png)
 (Figure 2) Valuation trends of teams with major star signings
 
 This chart isolates five representative teams that landed major stars. The red dots indicate the year each player arrived. As you can see, in many cases the slope of the line steepens around that point.
@@ -50,7 +50,7 @@ But did the effect show up right away—or did it take time?
 
 ### Short-term Impact: Change in Year 1
 
-![Year-on-year change in valuation at time of signing](../image/1_nba_valuation_change_star_year.png)
+![Year-on-year change in valuation at time of signing](../image/1_Macro/1_nba_valuation_change_star_year.png)
 (Figure 3) Year-on-year change in valuation at time of signing
 
 Looking at the first year after the signing, results were mixed:
@@ -74,7 +74,7 @@ Despite bringing in multiple stars, these teams saw almost no bump in the first 
 
 Let’s take a longer view. How did valuations look two years after the star arrived?
 
-![2-year growth in team valuation after signing](../image/1_nba_valuation_change_star_2y_later.png)
+![2-year growth in team valuation after signing](../image/1_Macro/1_nba_valuation_change_star_2y_later.png)
 (Figure 4) 2-year growth in team valuation after signing
 
 What stands out most is the Cavaliers: two years after LeBron returned, the team’s valuation had more than doubled (+110%).
