@@ -1,4 +1,4 @@
-# Do Star Players Move the “Stock Price” of NBA Teams? ~(1/3) Macro Perspective – Analyzing Team Valuations Across the League~
+# Do Star Players Move the “Stock Price” of NBA Teams? ~ (1/3) Macro Perspective – Analyzing Team Valuations Across the League ~
 
 ## 1. Introduction: Do stars bring not only wins but also money?
 
