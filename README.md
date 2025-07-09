@@ -21,7 +21,7 @@ I use this repository as part of my effort to output and refine my thoughts befo
 - [スター選手はチームの“株価”を動かすのか? 〜NBAチームの企業価値分析: (1/3) マクロ編〜](https://note.com/shokubohcm/n/n7bef1d17c2ca)
 - [(2/3)Do Star Players Move the “Stock Price” of NBA Teams? ~ (2/3) Case Studies — 5 Trades that Shook the NBA ~](https://shokubohcm.medium.com/do-star-players-move-the-stock-price-of-nba-teams-163c46237a49)
 - [スター選手はチームの“株価”を動かすのか?～NBAを動かした5つの移籍: (2/3) ケース編～](https://note.com/shokubohcm/n/n2267570c06f9)
-- [(3/3)Do Star Players Move the “Stock Price” of NBA Teams? ~DiD and Event Study: (3/3) The Analysis~](https://medium.com/@shokubohcm/3-3-do-star-players-move-the-stock-price-of-nba-teams-did-and-event-study-3-3-the-analysis-ef7adff92c44)
+- [(3/3)Do Star Players Move the “Stock Price” of NBA Teams? ~ (3/3) The Analysis － DiD and Event Study ~](https://medium.com/@shokubohcm/3-3-do-star-players-move-the-stock-price-of-nba-teams-did-and-event-study-3-3-the-analysis-ef7adff92c44)
 - [# スター選手はチームの“株価”を動かすのか?～DiDとイベントスタディ: (3/3) 分析編～](https://note.com/shokubohcm/n/nde45d736a36f)
 
 ## Connect with Me
