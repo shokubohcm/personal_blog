@@ -1,4 +1,4 @@
-# Do Star Players Move the “Stock Price” of NBA Teams? ~iD and Event Study: (3/3) The Analysis~
+# Do Star Players Move the “Stock Price” of NBA Teams? ~DiD and Event Study: (3/3) The Analysis~
 
 ## 1. Introduction: Was It a Coincidence, or Something Real?
 
@@ -67,7 +67,7 @@ The percentage of teams with a star player fluctuates by year. You can see it ju
 ![Distribution of enterprise value by presence of stars](../image/3_Analysis/valuation_distribution_star_vs_nonstar.png)
 (Figure 2) Distribution of enterprise value by presence of stars
 
-Teams with a star (right) tend to have a higher median value than teams without one (left). However, what's noteworthy is the spread of the distributions. There are many teams with low value despite having a star, and many teams that boast a high value without one. At this point, we get a glimpse of the possibility that "**a star is not a silver bullet.**"
+Teams with a star (right) tend to have a higher median value than teams without one (left). However, what's noteworthy is the spread of the distributions. There are many teams with low value despite having a star, and many teams that boast a high value without one. At this point, we get a glimpse of the possibility that "**a star is not a silver bullet**".
 
 ## 4. Analysis Part 1: Does Simply Having a Star Raise Value?
 
