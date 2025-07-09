@@ -1,4 +1,4 @@
-# Do Star Players Move the “Stock Price” of NBA Teams? ~DiD and Event Study: (3/3) The Analysis~
+# Do Star Players Move the “Stock Price” of NBA Teams? ~(3/3) The Analysis － DiD and Event Study~
 
 ## 1. Introduction: Was It a Coincidence, or Something Real?
 
